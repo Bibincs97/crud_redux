@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "post_title": "Good Nature",
+      "post_message": "This blog is the creation of WWF and Natural Habitat Adventures which mainly drive articles on travel. They are leaders in worldwide nature and wildlife travel tours. Subscribe to this blog now to get all relevant articles to save the environment!",
+      "post_image": "https://images.unsplash.com/photo-1668800477238-0c701ec52be9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+      "id": 1
+    },
+    {
+      "post_title": "Nature World News",
+      "post_message": "If you’re searching for the latest news about nature from different corners of the world, this blog can be the best choice for nature lovers. The writers are highly active on the blog and bring 4 stories in a day for their readers. ",
+      "post_image": "https://images.unsplash.com/photo-1669111959929-5851e6536991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "id": 2
+    },
+    {
+      "post_title": "54564645",
+      "post_message": "66575675",
+      "post_image": {},
+      "id": 3
+    }
+  ]
+}
